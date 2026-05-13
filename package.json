@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "deploy": "gcloud config set project baeun-trade && gcloud run deploy baeun-trade --source . --region=asia-northeast1 --allow-unauthenticated"
   },
   "dependencies": {
     "next": "16.2.6",
