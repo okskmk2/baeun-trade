@@ -1,0 +1,126 @@
+{
+  "common": {
+    "brand": "Baeun Trade",
+    "nav": {
+      "contact": "联系我们"
+    },
+    "language": {
+      "label": "语言",
+      "en": "英语",
+      "ko": "韩语",
+      "id": "印尼语",
+      "zh": "中文",
+      "ja": "日语"
+    },
+    "footer": {
+      "rights": "保留所有权利。"
+    },
+    "contact": {
+      "whatsappHint": "点击打开 WhatsApp 聊天",
+      "emailHint": "我们将在 48 小时内回复"
+    },
+    "backToHome": "返回首页"
+  },
+  "home": {
+    "hero": {
+      "titleMain": "值得信赖的贸易经纪服务",
+      "titleAccent": "覆盖广泛买家网络",
+      "subtitle": "我们通过专业信用证处理、托管保障和 48 小时执行，为全球买家与卖家建立连接。",
+      "cta": "立即联系"
+    },
+    "stats": {
+      "buyers": {
+        "title": "活跃全球买家",
+        "desc": "广泛网络确保快速匹配"
+      },
+      "fulfillment": {
+        "title": "订单履约率",
+        "desc": "值得信赖的执行能力"
+      },
+      "processing": {
+        "title": "平均处理时间",
+        "desc": "快速执行，稳定如一"
+      }
+    },
+    "banking": {
+      "title": "高效信用证处理",
+      "subtitle": "携手值得信赖的银行伙伴",
+      "cardTitle": "银行协作优势",
+      "point1": "与主要国际银行建立直接合作",
+      "point2": "专业信用证处理与单证支持",
+      "point3": "安全的多币种结算",
+      "point4": "对长期可信合作伙伴提供电汇 (TT) 支持"
+    },
+    "industries": {
+      "title": "服务行业",
+      "subtitle": "覆盖多类全球贸易品类",
+      "food": {
+        "title": "食品与饮料",
+        "desc": "生鲜与加工食品"
+      },
+      "manufacturing": {
+        "title": "制造业",
+        "desc": "机械、零部件、OEM"
+      },
+      "agriculture": {
+        "title": "农业",
+        "desc": "谷物、化肥、农作物"
+      },
+      "raw": {
+        "title": "原材料",
+        "desc": "钢材、木材、矿产"
+      }
+    },
+    "services": {
+      "title": "核心服务",
+      "subtitle": "为您的业务提供全面贸易解决方案",
+      "marketplace": {
+        "title": "交易市场",
+        "item1": "食品及农产品",
+        "item2": "制造品及机械",
+        "item3": "原材料及大宗商品"
+      },
+      "assurance": {
+        "title": "交易保障",
+        "item1": "安全托管系统",
+        "item2": "质量检验周期",
+        "item3": "可靠执行"
+      },
+      "logistics": {
+        "title": "物流服务",
+        "item1": "全球运输网络",
+        "item2": "单证支持",
+        "item3": "高效执行"
+      }
+    },
+    "escrow": {
+      "title": "智能托管系统",
+      "subtitle": "快速且专业的处理流程",
+      "securePayment": {
+        "title": "安全付款",
+        "desc": "在交付确认前，资金由托管账户安全保管"
+      },
+      "inspection": {
+        "title": "检验期",
+        "desc": "最终放款前进行质量核验"
+      },
+      "broker": {
+        "title": "经纪保障",
+        "desc": "佣金自动锁定并按流程释放"
+      },
+      "step1": "信用证处理",
+      "step2": "托管保障",
+      "step3": "快速结算",
+      "footnote": "平均处理时间：48 小时 | 对长期合作关系可提供 TT"
+    },
+    "cta": {
+      "title": "准备开始贸易了吗？",
+      "subtitle": "下一笔交易，只需一条消息即可开启。联系我们获取快速、无负担咨询。",
+      "button": "立即联系"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "我们随时为您提供帮助。欢迎随时联系。"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "common": {
+    "brand": "Baeun Trade",
+    "nav": {
+      "contact": "お問い合わせ"
+    },
+    "language": {
+      "label": "言語",
+      "en": "英語",
+      "ko": "韓国語",
+      "id": "インドネシア語",
+      "zh": "中国語",
+      "ja": "日本語"
+    },
+    "footer": {
+      "rights": "All rights reserved."
+    },
+    "contact": {
+      "whatsappHint": "クリックすると WhatsApp チャットを開きます",
+      "emailHint": "48時間以内に返信します"
+    },
+    "backToHome": "ホームに戻る"
+  },
+  "home": {
+    "hero": {
+      "titleMain": "信頼できる貿易仲介と",
+      "titleAccent": "広範なバイヤーネットワーク",
+      "subtitle": "専門的な LC 処理、エスクロー保護、48時間以内の実行で、世界の買い手と売り手をつなぎます。",
+      "cta": "今すぐお問い合わせ"
+    },
+    "stats": {
+      "buyers": {
+        "title": "アクティブなグローバルバイヤー",
+        "desc": "迅速なマッチングを支える広いネットワーク"
+      },
+      "fulfillment": {
+        "title": "受注履行率",
+        "desc": "確かな実行力"
+      },
+      "processing": {
+        "title": "平均処理時間",
+        "desc": "常に迅速な対応"
+      }
+    },
+    "banking": {
+      "title": "スムーズな LC 処理",
+      "subtitle": "信頼できる銀行パートナーとともに",
+      "cardTitle": "銀行業務の強み",
+      "point1": "主要な国際銀行との直接ネットワーク",
+      "point2": "専門的な LC 処理と書類対応",
+      "point3": "安全なマルチ通貨決済",
+      "point4": "信頼関係のある継続取引先には TT 送金を提供"
+    },
+    "industries": {
+      "title": "対応業種",
+      "subtitle": "幅広いグローバル取引分野に対応",
+      "food": {
+        "title": "食品・飲料",
+        "desc": "生鮮品・加工食品"
+      },
+      "manufacturing": {
+        "title": "製造業",
+        "desc": "機械、部品、OEM"
+      },
+      "agriculture": {
+        "title": "農業",
+        "desc": "穀物、肥料、農作物"
+      },
+      "raw": {
+        "title": "原材料",
+        "desc": "鋼材、木材、鉱物"
+      }
+    },
+    "services": {
+      "title": "主要サービス",
+      "subtitle": "お客様のビジネスに最適な総合貿易ソリューション",
+      "marketplace": {
+        "title": "マーケットプレイス",
+        "item1": "食品・農産品",
+        "item2": "製造品・機械",
+        "item3": "原材料・コモディティ"
+      },
+      "assurance": {
+        "title": "取引保証",
+        "item1": "安全なエスクローシステム",
+        "item2": "品質検査期間",
+        "item3": "信頼できる履行"
+      },
+      "logistics": {
+        "title": "物流サービス",
+        "item1": "グローバル配送ネットワーク",
+        "item2": "書類サポート",
+        "item3": "迅速な実行"
+      }
+    },
+    "escrow": {
+      "title": "スマートエスクローシステム",
+      "subtitle": "迅速でプロフェッショナルな処理",
+      "securePayment": {
+        "title": "安全な支払い",
+        "desc": "納品確認まで資金を安全にエスクローで保管"
+      },
+      "inspection": {
+        "title": "検査期間",
+        "desc": "最終支払い前に品質を確認"
+      },
+      "broker": {
+        "title": "ブローカー保護",
+        "desc": "手数料を自動で確保し、適切に精算"
+      },
+      "step1": "LC 処理",
+      "step2": "エスクロー保護",
+      "step3": "迅速な精算",
+      "footnote": "平均処理時間: 48時間 | 信頼関係のある取引では TT 対応"
+    },
+    "cta": {
+      "title": "取引を始める準備はできていますか？",
+      "subtitle": "次の取引は、1通のメッセージから始まります。まずはお気軽にご相談ください。",
+      "button": "今すぐお問い合わせ"
+    }
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "いつでもご連絡ください。迅速に対応します。"
+  }
+}

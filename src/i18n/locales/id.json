@@ -1,0 +1,126 @@
+{
+  "common": {
+    "brand": "Baeun Trade",
+    "nav": {
+      "contact": "Kontak"
+    },
+    "language": {
+      "label": "Bahasa",
+      "en": "Inggris",
+      "ko": "Korea",
+      "id": "Indonesia",
+      "zh": "Mandarin",
+      "ja": "Jepang"
+    },
+    "footer": {
+      "rights": "Hak cipta dilindungi."
+    },
+    "contact": {
+      "whatsappHint": "Klik untuk membuka chat WhatsApp",
+      "emailHint": "Kami akan merespons dalam 48 jam"
+    },
+    "backToHome": "Kembali ke Beranda"
+  },
+  "home": {
+    "hero": {
+      "titleMain": "Broker Perdagangan Tepercaya dengan",
+      "titleAccent": "Jaringan Pembeli yang Luas",
+      "subtitle": "Kami menghubungkan pembeli dan penjual global dengan pemrosesan LC ahli, perlindungan escrow, dan eksekusi 48 jam.",
+      "cta": "Hubungi Kami"
+    },
+    "stats": {
+      "buyers": {
+        "title": "Pembeli Global Aktif",
+        "desc": "Jaringan luas untuk pencocokan cepat"
+      },
+      "fulfillment": {
+        "title": "Tingkat Pemenuhan Pesanan",
+        "desc": "Keandalan yang dapat Anda andalkan"
+      },
+      "processing": {
+        "title": "Rata-rata Waktu Proses",
+        "desc": "Eksekusi cepat setiap saat"
+      }
+    },
+    "banking": {
+      "title": "Pemrosesan LC Tanpa Hambatan",
+      "subtitle": "Bersama Mitra Perbankan Tepercaya",
+      "cardTitle": "Keunggulan Perbankan",
+      "point1": "Hubungan langsung dengan bank internasional utama",
+      "point2": "Pemrosesan LC dan dokumentasi oleh ahli",
+      "point3": "Penyelesaian pembayaran multi-mata uang yang aman",
+      "point4": "Transfer Telegrafik (TT) tersedia untuk mitra tepercaya dan berulang"
+    },
+    "industries": {
+      "title": "Industri yang Kami Layani",
+      "subtitle": "Keahlian luas di berbagai kategori perdagangan global",
+      "food": {
+        "title": "Makanan & Minuman",
+        "desc": "Produk segar dan olahan"
+      },
+      "manufacturing": {
+        "title": "Manufaktur",
+        "desc": "Mesin, komponen, OEM"
+      },
+      "agriculture": {
+        "title": "Pertanian",
+        "desc": "Biji-bijian, pupuk, hasil panen"
+      },
+      "raw": {
+        "title": "Bahan Baku",
+        "desc": "Baja, kayu, mineral"
+      }
+    },
+    "services": {
+      "title": "Layanan Inti Kami",
+      "subtitle": "Solusi perdagangan komprehensif untuk bisnis Anda",
+      "marketplace": {
+        "title": "Marketplace",
+        "item1": "Produk makanan & hasil pertanian",
+        "item2": "Produk manufaktur & mesin",
+        "item3": "Bahan baku & komoditas"
+      },
+      "assurance": {
+        "title": "Jaminan Perdagangan",
+        "item1": "Sistem escrow yang aman",
+        "item2": "Periode inspeksi kualitas",
+        "item3": "Eksekusi yang andal"
+      },
+      "logistics": {
+        "title": "Layanan Logistik",
+        "item1": "Jaringan pengiriman global",
+        "item2": "Dukungan dokumentasi",
+        "item3": "Eksekusi cepat"
+      }
+    },
+    "escrow": {
+      "title": "Sistem Escrow Cerdas",
+      "subtitle": "Pemrosesan cepat dan profesional",
+      "securePayment": {
+        "title": "Pembayaran Aman",
+        "desc": "Dana disimpan aman di escrow hingga konfirmasi pengiriman"
+      },
+      "inspection": {
+        "title": "Periode Inspeksi",
+        "desc": "Verifikasi kualitas sebelum pelepasan pembayaran akhir"
+      },
+      "broker": {
+        "title": "Perlindungan Broker",
+        "desc": "Komisi diamankan dan dicairkan secara otomatis"
+      },
+      "step1": "Pemrosesan LC",
+      "step2": "Perlindungan Escrow",
+      "step3": "Penyelesaian Cepat",
+      "footnote": "Rata-rata waktu pemrosesan: 48 jam | TT tersedia untuk hubungan yang sudah terjalin"
+    },
+    "cta": {
+      "title": "Siap Memulai Perdagangan?",
+      "subtitle": "Transaksi berikutnya dimulai dari satu pesan. Hubungi kami untuk konsultasi cepat tanpa komitmen.",
+      "button": "Hubungi Kami"
+    }
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "subtitle": "Kami siap membantu. Hubungi kami kapan saja."
+  }
+}

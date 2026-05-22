@@ -1,0 +1,126 @@
+{
+  "common": {
+    "brand": "Baeun Trade",
+    "nav": {
+      "contact": "Contact"
+    },
+    "language": {
+      "label": "Language",
+      "en": "English",
+      "ko": "Korean",
+      "id": "Indonesian",
+      "zh": "Chinese",
+      "ja": "Japanese"
+    },
+    "footer": {
+      "rights": "All rights reserved."
+    },
+    "contact": {
+      "whatsappHint": "Click to open WhatsApp chat",
+      "emailHint": "We'll respond within 48 hours"
+    },
+    "backToHome": "Back to Home"
+  },
+  "home": {
+    "hero": {
+      "titleMain": "Reliable Trade Brokerage with",
+      "titleAccent": "Extensive Buyer Network",
+      "subtitle": "We connect global buyers and sellers with expert LC processing, escrow protection, and 48-hour execution.",
+      "cta": "Contact Us Today"
+    },
+    "stats": {
+      "buyers": {
+        "title": "Active Global Buyers",
+        "desc": "Extensive network ensuring quick matches"
+      },
+      "fulfillment": {
+        "title": "Order Fulfillment Rate",
+        "desc": "Reliability you can count on"
+      },
+      "processing": {
+        "title": "Avg. Processing Time",
+        "desc": "Swift execution, every time"
+      }
+    },
+    "banking": {
+      "title": "Seamless LC Processing",
+      "subtitle": "With Trusted Banking Partners",
+      "cardTitle": "Banking Excellence",
+      "point1": "Direct relationships with major international banks",
+      "point2": "Expert LC processing and documentation",
+      "point3": "Secure, multi-currency payment settlement",
+      "point4": "Telegraphic Transfer (TT) available for trusted, repeat partners"
+    },
+    "industries": {
+      "title": "Industries We Serve",
+      "subtitle": "Broad expertise across global trade categories",
+      "food": {
+        "title": "Food & Beverage",
+        "desc": "Fresh produce, processed goods"
+      },
+      "manufacturing": {
+        "title": "Manufacturing",
+        "desc": "Machinery, components, OEM"
+      },
+      "agriculture": {
+        "title": "Agriculture",
+        "desc": "Grains, fertilizers, raw crops"
+      },
+      "raw": {
+        "title": "Raw Materials",
+        "desc": "Steel, timber, minerals"
+      }
+    },
+    "services": {
+      "title": "Our Core Services",
+      "subtitle": "Comprehensive trade solutions for your business",
+      "marketplace": {
+        "title": "Marketplace",
+        "item1": "Food products & agricultural goods",
+        "item2": "Manufactured products & machinery",
+        "item3": "Raw materials & commodities"
+      },
+      "assurance": {
+        "title": "Trade Assurance",
+        "item1": "Secure escrow system",
+        "item2": "Quality inspection period",
+        "item3": "Reliable execution"
+      },
+      "logistics": {
+        "title": "Logistics Services",
+        "item1": "Global shipping network",
+        "item2": "Documentation support",
+        "item3": "Swift execution"
+      }
+    },
+    "escrow": {
+      "title": "Smart Escrow System",
+      "subtitle": "Prompt and professional processing",
+      "securePayment": {
+        "title": "Secure Payment",
+        "desc": "Funds held safely in escrow until delivery confirmation"
+      },
+      "inspection": {
+        "title": "Inspection Period",
+        "desc": "Quality verification before final payment release"
+      },
+      "broker": {
+        "title": "Broker Protection",
+        "desc": "Commission automatically secured and released"
+      },
+      "step1": "LC Processing",
+      "step2": "Escrow Protection",
+      "step3": "Swift Settlement",
+      "footnote": "Average processing time: 48 hours | TT available for established relationships"
+    },
+    "cta": {
+      "title": "Ready to Start Trading?",
+      "subtitle": "Your next deal starts with one message. Reach us for a fast, no-obligation consultation.",
+      "button": "Contact Us Today"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help. Reach out anytime."
+  }
+}

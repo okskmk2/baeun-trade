@@ -1,0 +1,126 @@
+{
+  "common": {
+    "brand": "Baeun Trade",
+    "nav": {
+      "contact": "문의"
+    },
+    "language": {
+      "label": "언어",
+      "en": "영어",
+      "ko": "한국어",
+      "id": "인도네시아어",
+      "zh": "중국어",
+      "ja": "일본어"
+    },
+    "footer": {
+      "rights": "All rights reserved."
+    },
+    "contact": {
+      "whatsappHint": "클릭하면 WhatsApp 채팅이 열립니다",
+      "emailHint": "48시간 이내에 답변드립니다"
+    },
+    "backToHome": "홈으로 돌아가기"
+  },
+  "home": {
+    "hero": {
+      "titleMain": "신뢰할 수 있는 무역 중개와",
+      "titleAccent": "폭넓은 바이어 네트워크",
+      "subtitle": "전문적인 LC 처리, 에스크로 보호, 48시간 내 실행으로 글로벌 바이어와 셀러를 연결합니다.",
+      "cta": "지금 문의하기"
+    },
+    "stats": {
+      "buyers": {
+        "title": "활성 글로벌 바이어",
+        "desc": "빠른 매칭을 돕는 광범위한 네트워크"
+      },
+      "fulfillment": {
+        "title": "주문 이행률",
+        "desc": "신뢰할 수 있는 실행력"
+      },
+      "processing": {
+        "title": "평균 처리 시간",
+        "desc": "매번 빠르고 정확한 처리"
+      }
+    },
+    "banking": {
+      "title": "원활한 LC 처리",
+      "subtitle": "신뢰받는 은행 파트너와 함께",
+      "cardTitle": "은행 업무 전문성",
+      "point1": "주요 국제 은행과의 직접 네트워크",
+      "point2": "전문적인 LC 처리 및 서류 지원",
+      "point3": "안전한 다중 통화 결제 정산",
+      "point4": "신뢰가 검증된 반복 거래 파트너에 한해 TT 송금 지원"
+    },
+    "industries": {
+      "title": "주요 취급 산업",
+      "subtitle": "다양한 글로벌 무역 카테고리 경험",
+      "food": {
+        "title": "식음료",
+        "desc": "신선식품 및 가공식품"
+      },
+      "manufacturing": {
+        "title": "제조",
+        "desc": "기계, 부품, OEM"
+      },
+      "agriculture": {
+        "title": "농업",
+        "desc": "곡물, 비료, 원재료"
+      },
+      "raw": {
+        "title": "원자재",
+        "desc": "철강, 목재, 광물"
+      }
+    },
+    "services": {
+      "title": "핵심 서비스",
+      "subtitle": "비즈니스를 위한 종합 무역 솔루션",
+      "marketplace": {
+        "title": "마켓플레이스",
+        "item1": "식품 및 농산물",
+        "item2": "제조품 및 기계",
+        "item3": "원자재 및 커머더티"
+      },
+      "assurance": {
+        "title": "거래 보증",
+        "item1": "안전한 에스크로 시스템",
+        "item2": "품질 검수 기간 제공",
+        "item3": "신뢰할 수 있는 이행"
+      },
+      "logistics": {
+        "title": "물류 서비스",
+        "item1": "글로벌 운송 네트워크",
+        "item2": "서류 지원",
+        "item3": "신속한 실행"
+      }
+    },
+    "escrow": {
+      "title": "스마트 에스크로 시스템",
+      "subtitle": "신속하고 전문적인 처리",
+      "securePayment": {
+        "title": "안전 결제",
+        "desc": "납품 확인 전까지 자금을 안전하게 에스크로 보관"
+      },
+      "inspection": {
+        "title": "검수 기간",
+        "desc": "최종 대금 지급 전 품질 검증"
+      },
+      "broker": {
+        "title": "브로커 보호",
+        "desc": "수수료 자동 보호 및 정산"
+      },
+      "step1": "LC 처리",
+      "step2": "에스크로 보호",
+      "step3": "신속 정산",
+      "footnote": "평균 처리 시간: 48시간 | 신뢰가 형성된 관계에서는 TT 지원"
+    },
+    "cta": {
+      "title": "거래를 시작할 준비가 되셨나요?",
+      "subtitle": "다음 거래는 한 번의 메시지로 시작됩니다. 부담 없는 빠른 상담을 받아보세요.",
+      "button": "지금 문의하기"
+    }
+  },
+  "contact": {
+    "title": "문의하기",
+    "subtitle": "언제든지 문의해 주세요. 빠르게 도와드리겠습니다."
+  }
+}
